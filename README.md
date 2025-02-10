@@ -50,7 +50,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, solvi
 
 ## 🌟 Top Repositories  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=repository-name&theme=radical)](https://github.com/ajaymeru/repository-name)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=repository-name&theme=radical)]([https://github.com/ajaymeru/](https://github.com/ajaymeru/Quick-Job))  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=repository-name&theme=radical)]([https://github.com/ajaymeru/](https://github.com/ajaymeru/CraftMyBite))
 
 ---
 
