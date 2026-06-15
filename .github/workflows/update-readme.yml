@@ -18,6 +18,8 @@ jobs:
           node-version: '18'
 
       - name: Run Starred Repos Script
+        env:
+          STARRED_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: node scripts/update-starred.js
 
       - name: Commit and Push changes

@@ -7,14 +7,23 @@ const README_PATH = path.join(__dirname, '../README.md');
 
 function fetchStarredRepos() {
   return new Promise((resolve, reject) => {
+    const token = process.env.STARRED_TOKEN || process.env.GITHUB_TOKEN;
+    const apiPath = token ? '/user/starred?per_page=100' : `/users/${USERNAME}/starred?per_page=100`;
+
+    const headers = {
+      'User-Agent': 'Node.js-Script',
+      'Accept': 'application/vnd.github.v3+json'
+    };
+
+    if (token) {
+      headers['Authorization'] = `token ${token}`;
+    }
+
     const options = {
       hostname: 'api.github.com',
-      path: `/users/${USERNAME}/starred?per_page=100`,
+      path: apiPath,
       method: 'GET',
-      headers: {
-        'User-Agent': 'Node.js-Script',
-        'Accept': 'application/vnd.github.v3+json'
-      }
+      headers: headers
     };
 
     https.get(options, (res) => {
