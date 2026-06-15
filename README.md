@@ -53,6 +53,11 @@ Here is a look at the projects I've starred, showing live metrics directly from 
   <a href="https://github.com/ajaymeru/AI-Resume-Analyzer-ATS-Score-Checker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=AI-Resume-Analyzer-ATS-Score-Checker&theme=tokyonight&hide_border=true" alt="AI-Resume-Analyzer-ATS-Score-Checker Card" height="120px" />
   </a>
+  <a href="https://github.com/ajaymeru/local-voice-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=local-voice-agent&theme=tokyonight&hide_border=true" alt="local-voice-agent Card" height="120px" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee_Recruitment_Software Card" height="120px" />
   </a>
