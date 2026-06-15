@@ -1,4 +1,4 @@
-name: Update README Project List
+name: Update README
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
@@ -7,8 +7,27 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run Starred Repos Script
+        run: node scripts/update-starred.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "Update starred repositories dynamically [skip ci]"
+          git push
+
       - name: Pull Latest Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:

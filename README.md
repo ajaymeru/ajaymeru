@@ -32,6 +32,7 @@ Here is a live look at my GitHub activity and language distribution, generated a
 
 Here is a look at the projects I've starred, showing live metrics directly from the repository:
 
+<!-- STARRED-START -->
 <p align="center">
   <a href="https://github.com/ajaymeru/CraftMyBite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=CraftMyBite&theme=tokyonight&hide_border=true" alt="CraftMyBite Card" height="120px" />
@@ -45,7 +46,7 @@ Here is a look at the projects I've starred, showing live metrics directly from 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=dashboard_OneDao&theme=tokyonight&hide_border=true" alt="dashboard_OneDao Card" height="120px" />
   </a>
   <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee Recruitment Software Card" height="120px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee_Recruitment_Software Card" height="120px" />
   </a>
 </p>
 <p align="center">
@@ -53,6 +54,7 @@ Here is a look at the projects I've starred, showing live metrics directly from 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Coursevita&theme=tokyonight&hide_border=true" alt="Coursevita Card" height="120px" />
   </a>
 </p>
+<!-- STARRED-END -->
 
 ---
 
