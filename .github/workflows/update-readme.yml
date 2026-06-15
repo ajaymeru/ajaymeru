@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '*/5 * * * *' # Runs every 5 minutes (GitHub's minimum limit)
   workflow_dispatch: # Allows manual trigger
 
 jobs:
