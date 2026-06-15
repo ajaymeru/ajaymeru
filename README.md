@@ -34,6 +34,14 @@ Here is a look at the projects I've starred, showing live metrics directly from 
 
 <!-- STARRED-START -->
 <p align="center">
+  <a href="https://github.com/ajaymeru/GLX-TRVL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=GLX-TRVL&theme=tokyonight&hide_border=true" alt="GLX-TRVL Card" height="120px" />
+  </a>
+  <a href="https://github.com/ajaymeru/BharatVarta">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=BharatVarta&theme=tokyonight&hide_border=true" alt="BharatVarta Card" height="120px" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/ajaymeru/NFT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=NFT&theme=tokyonight&hide_border=true" alt="NFT Card" height="120px" />
   </a>
@@ -47,11 +55,6 @@ Here is a look at the projects I've starred, showing live metrics directly from 
   </a>
   <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee_Recruitment_Software Card" height="120px" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ajaymeru/Coursevita">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Coursevita&theme=tokyonight&hide_border=true" alt="Coursevita Card" height="120px" />
   </a>
 </p>
 <!-- STARRED-END -->
