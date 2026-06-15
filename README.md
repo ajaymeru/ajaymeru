@@ -12,7 +12,7 @@ Full-Stack Developer & Automation Engineer specializing in building robust web a
 
 ---
 
-### 📊 GitHub Analytics (Dynamically Updated)
+### 📊 GitHub Analytics 
 
 Here is a live look at my GitHub activity and language distribution, generated automatically from all my repositories:
 
