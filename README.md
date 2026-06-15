@@ -1,105 +1,44 @@
-# Hi there, I'm Ajay Meru! 👋  
+# Hi there, I'm Ajay Meru 👋
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about **building scalable web applications** and **solving real-world problems**. I have a strong background in **bioinformatics** and **software development**, blending analytical thinking with coding expertise.  
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajaymeru&label=Profile%20Views&color=0e75b6&style=flat)  
+Full-Stack Developer & Automation Engineer specializing in building robust web applications, optimizing databases, and designing seamless API integrations.
 
 ---
 
-## 🚀 About Me  
+### 🛠️ Core Stack & Tooling
 
-- 🔭 Currently working as a **Full-Stack Developer Trainee at CareerPedia**  
-- 🌱 Learning & mastering **MERN stack, scalability, and performance optimization**  
-- 🎯 Experienced in **Bioinformatics, Genomic Data Analysis, and Web Development**  
-- 💬 Ask me about **MERN Stack, JavaScript, REST APIs, and Web Security**  
-- 📫 Reach me at **ajaymeru02@gmail.com**  
+- **Frontend:** React (Vite), Next.js, Tailwind CSS, HTML5/CSS3, JavaScript (ES6+)
+- **Backend & Database:** Node.js, Express, MongoDB, RESTful APIs
+- **Automation & DevOps:** n8n Workflow Automation, Webhooks, Playwright (Automation Testing), Git/GitHub
 
 ---
 
-## 🛠️ Tech Stack  
+### 📊 GitHub Analytics (Dynamically Updated)
 
-### **Frontend**  
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>  
+Here is a live look at my GitHub activity and language distribution, generated automatically from all my repositories:
 
-### **Backend**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>  
+<!-- Dynamic GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymeru&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ajay's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymeru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
 
-### **Database & Authentication**  
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</div>  
-
-### **Tools & Others**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymeru&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+### 🚀 Featured Focus Areas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymeru&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymeru&theme=radical" alt="Ajay's GitHub Streak" width="48%" />
-</div>  
+#### 🌐 Full-Stack Applications
+Building modern web architectures using the **MERN Stack** and **Next.js**. I focus on fast render times, clean routing structures, and intuitive user experiences.
 
----
-
-## 🌟 Top Repositories  
-
-[![Quick Job](https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Quick-Job&theme=radical)](https://github.com/ajaymeru/Quick-Job)  
-[![CraftMyBite](https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=CraftMyBite&theme=radical)](https://github.com/ajaymeru/CraftMyBite)  
+#### ⚡ Automation & Workflow Integrations
+Architecting custom backend triggers and automated pipelines using **n8n** and webhooks to link complex APIs, parse data structures, and handle seamless data syncing.
 
 ---
 
-## 🎯 Featured Projects  
+### 📫 Connect with Me
 
-### **📌 Portfolio**  
-🔗 **[Live Demo](#)** | **[GitHub Repo](#)**  
-Developed a **personal portfolio website** using **React.js, Framer Motion, and AOS animations**, showcasing my skills, projects, and work experience.  
-
-### **📌 Job Portal**  
-🔗 **[Live Demo](#)** | **[GitHub Repo](#)**  
-Built a **full-stack job portal** using **React.js, Node.js, Express, and MongoDB**, with **secure authentication** using **JWT and bcrypt**.  
-
----
-
-## 🎓 Education  
-
-🎓 **MSc Bioinformatics** (2021 - 2023) | Pondicherry University  
-🎓 **BSc Microbiology** (2018 - 2021) | GDC Autonomous Siddipet  
-
----
-
-## 📫 Connect with Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ajaymeru">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ajaymeru">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:ajaymeru02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>  
-
----
-
-Thanks for visiting my profile! Have a great day! 😃🚀  
+- 💼 **LinkedIn:** [linkedin.com/in/ajaymeru](https://linkedin.com) 
+- 🛠️ **GitHub:** [@ajaymeru](https://github.com/ajaymeru)
