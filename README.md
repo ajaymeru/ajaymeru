@@ -50,25 +50,22 @@ Here is a look at the projects I've starred, showing live metrics directly from 
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ajaymeru/NFT">
-    <img src="./images/cards/NFT.svg" alt="NFT Card" width="390px" />
-  </a>
   <a href="https://github.com/ajaymeru/Google-Maps-Lead-Scraper-and-Data-Pipeline">
     <img src="./images/cards/Google-Maps-Lead-Scraper-and-Data-Pipeline.svg" alt="Google-Maps-Lead-Scraper-and-Data-Pipeline Card" width="390px" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/ajaymeru/CraftMyBite">
     <img src="./images/cards/CraftMyBite.svg" alt="CraftMyBite Card" width="390px" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/ajaymeru/AI-Resume-Analyzer-ATS-Score-Checker">
     <img src="./images/cards/AI-Resume-Analyzer-ATS-Score-Checker.svg" alt="AI-Resume-Analyzer-ATS-Score-Checker Card" width="390px" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/ajaymeru/local-voice-agent">
     <img src="./images/cards/local-voice-agent.svg" alt="local-voice-agent Card" width="390px" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
     <img src="./images/cards/Employee_Recruitment_Software.svg" alt="Employee_Recruitment_Software Card" width="390px" />
   </a>
