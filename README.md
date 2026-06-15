@@ -28,6 +28,29 @@ Here is a live look at my GitHub activity and language distribution, generated a
 
 ---
 
+### 🌟 Featured Projects
+
+Here is a look at my top projects, displaying live stats directly from their repositories:
+
+<p align="center">
+  <a href="https://github.com/ajaymeru/Quick-Job">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Quick-Job&theme=tokyonight&hide_border=true" alt="Quick-Job Card" height="120px" />
+  </a>
+  <a href="https://github.com/ajaymeru/CraftMyBite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=CraftMyBite&theme=tokyonight&hide_border=true" alt="CraftMyBite Card" height="120px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ajaymeru/GLX-TRVL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=GLX-TRVL&theme=tokyonight&hide_border=true" alt="GLX-TRVL Card" height="120px" />
+  </a>
+  <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee Recruitment Software Card" height="120px" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Featured Focus Areas
 
 #### 🌐 Full-Stack Applications
@@ -35,6 +58,15 @@ Building modern web architectures using the **MERN Stack** and **Next.js**. I fo
 
 #### ⚡ Automation & Workflow Integrations
 Architecting custom backend triggers and automated pipelines using **n8n** and webhooks to link complex APIs, parse data structures, and handle seamless data syncing.
+
+---
+
+### ⚡ Recent Activity
+
+Here is my latest activity across my repositories:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
