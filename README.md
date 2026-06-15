@@ -28,24 +28,29 @@ Here is a live look at my GitHub activity and language distribution, generated a
 
 ---
 
-### 🌟 Featured Projects
+### ⭐ Starred Projects
 
-Here is a look at my top projects, displaying live stats directly from their repositories:
+Here is a look at the projects I've starred, showing live metrics directly from the repository:
 
 <p align="center">
-  <a href="https://github.com/ajaymeru/Quick-Job">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Quick-Job&theme=tokyonight&hide_border=true" alt="Quick-Job Card" height="120px" />
-  </a>
   <a href="https://github.com/ajaymeru/CraftMyBite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=CraftMyBite&theme=tokyonight&hide_border=true" alt="CraftMyBite Card" height="120px" />
   </a>
+  <a href="https://github.com/ajaymeru/AI-Resume-Analyzer-ATS-Score-Checker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=AI-Resume-Analyzer-ATS-Score-Checker&theme=tokyonight&hide_border=true" alt="AI-Resume-Analyzer-ATS-Score-Checker Card" height="120px" />
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ajaymeru/GLX-TRVL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=GLX-TRVL&theme=tokyonight&hide_border=true" alt="GLX-TRVL Card" height="120px" />
+  <a href="https://github.com/ajaymeru/dashboard_OneDao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=dashboard_OneDao&theme=tokyonight&hide_border=true" alt="dashboard_OneDao Card" height="120px" />
   </a>
   <a href="https://github.com/ajaymeru/Employee_Recruitment_Software">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Employee_Recruitment_Software&theme=tokyonight&hide_border=true" alt="Employee Recruitment Software Card" height="120px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ajaymeru/Coursevita">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaymeru&repo=Coursevita&theme=tokyonight&hide_border=true" alt="Coursevita Card" height="120px" />
   </a>
 </p>
 
